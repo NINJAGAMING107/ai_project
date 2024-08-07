@@ -1,0 +1,9 @@
+README.md
+setup.py
+Housing_Forecast.egg-info/PKG-INFO
+Housing_Forecast.egg-info/SOURCES.txt
+Housing_Forecast.egg-info/dependency_links.txt
+Housing_Forecast.egg-info/requires.txt
+Housing_Forecast.egg-info/top_level.txt
+housing_forecast/__init__.py
+housing_forecast/predict.py
